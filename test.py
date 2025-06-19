@@ -1,2 +1,2 @@
-def is_numuric()
-   pass
+def number():
+    pass
